@@ -4,16 +4,16 @@ All the Algorithms are being added
 Algorithm													  |       Status
 :----------------------------------:|:----------------------------:
 
-Regression Algorithms										Completed							
+Regression Algorithms:									Completed							
 
-SimpleLinearRegression                  Completed
+SimpleLinearRegression:                 Completed
 
-MultipleLinearRegression                Completed
+MultipleLinearRegression:               Completed
 
-PolynomialRegression                    Completed
+PolynomialRegression:                   Completed
 
-SupportVectorRegression(SVR)            Completed
+SupportVectorRegression(SVR):           Completed
 
-DecisionTreeRegression                  Completed
+DecisionTreeRegression:                 Completed
 
-RandomForestRegression                  Completed
+RandomForestRegression:                 Completed
