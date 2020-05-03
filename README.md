@@ -1,7 +1,7 @@
 # Machine-Learning
 All the Algorithms are being added
 
-Algorithm													  |       Status
+Algorithm:													|:       Status            
 :----------------------------------:|:----------------------------:
 
 Regression Algorithms:              |  Completed
