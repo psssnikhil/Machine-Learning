@@ -4,9 +4,9 @@ All the Algorithms are being added
 Algorithm													  |       Status
 :----------------------------------:|:----------------------------:
 
-Regression Algorithms:									Completed							
+Regression Algorithms:              |:Completed:							
 
-SimpleLinearRegression:                 Completed
+SimpleLinearRegression:                Completed
 
 MultipleLinearRegression:               Completed
 
