@@ -27,3 +27,5 @@ RandomForestRegression:             |   Completed
 
 LogisticRegression                  |   Completed
 :----------------------------------:|:----------------------------:
+
+KNN classification:                 |   Completed
