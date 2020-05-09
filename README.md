@@ -31,3 +31,4 @@ LogisticRegression                  |   Completed
 KNN classification:                 |   Completed
 :----------------------------------:|:----------------------------:
 
+Support Vector Machine             :|:  Completed
