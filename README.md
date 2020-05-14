@@ -34,3 +34,10 @@ KNN classification:                 |   Completed
 Support Vector Machine             :|:  Completed
 :----------------------------------:|:----------------------------:
 
+DecisionTree Classification        :|:  Completed
+:----------------------------------:|:----------------------------:
+
+RandomForest Classfication         :|:  Completed
+:----------------------------------:|:----------------------------:
+
+
