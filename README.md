@@ -31,13 +31,13 @@ LogisticRegression                  |   Completed
 KNN classification:                 |   Completed
 :----------------------------------:|:----------------------------:
 
-Support Vector Machine             :|:  Completed
+Support Vector Machine              |  Completed
 :----------------------------------:|:----------------------------:
 
-DecisionTree Classification        :|:  Completed
+DecisionTree Classification         |  Completed
 :----------------------------------:|:----------------------------:
 
-RandomForest Classfication         :|:  Completed
+RandomForest Classfication          |  Completed
 :----------------------------------:|:----------------------------:
 
 
