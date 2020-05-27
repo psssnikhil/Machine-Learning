@@ -65,6 +65,14 @@ Apriori Algorithm                   |  Completed
 :----------------------------------:|:----------------------------:
 
 
+                      Deep Learning
+                      
+   
+ Artificial Nueral Networks (ANN)   |    pending
+:----------------------------------:|:----------------------------:
+ Convolution Nueral Networks (CNN)  |    pending
+:----------------------------------:|:----------------------------:
+
 
               
 
