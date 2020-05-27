@@ -70,6 +70,7 @@ Apriori Algorithm                   |  Completed
    
  Artificial Nueral Networks (ANN)   |    pending
 :----------------------------------:|:----------------------------:
+
  Convolution Nueral Networks (CNN)  |    pending
 :----------------------------------:|:----------------------------:
 
