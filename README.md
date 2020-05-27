@@ -52,3 +52,20 @@ K-Means Clustering                  |  Completed
 Heirarchical Clustering             |  Completed
 :----------------------------------:|:----------------------------:
 
+                      Association rule learning
+                      
+Apriori Algorithm                   |  Completed
+:----------------------------------:|:----------------------------:
+
+
+                      Natural Language Processing
+                      
+   
+   Intro to NLP               |     Completed
+:----------------------------------:|:----------------------------:
+
+
+
+              
+
+
