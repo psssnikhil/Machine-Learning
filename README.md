@@ -68,13 +68,36 @@ Apriori Algorithm                   |  Completed
                       Deep Learning
                       
    
- Artificial Nueral Networks (ANN)   |    pending
+ Artificial Nueral Networks (ANN)   |    Completed
 :----------------------------------:|:----------------------------:
 
  Convolution Nueral Networks (CNN)  |    pending
 :----------------------------------:|:----------------------------:
 
 
+              Dimensionality Reduction Techniques
               
+              
+Principal Component Analysis(PCA)   |    Completed
+:----------------------------------:|:----------------------------:
 
+Linear Discriminat Analysis(LDA)    |    pending
+:----------------------------------:|:----------------------------:
+
+
+              
+            Model Cross validation and Boosting Techniques
+            
+  K-Fold Cross validation           |    pending
+:----------------------------------:|:----------------------------:
+
+  GridSearchCV                      |    pending
+:----------------------------------:|:----------------------------:  
+
+  RandomSearchCV                    |    pending
+:----------------------------------:|:----------------------------:     
+
+  XGBOOST                           |    pending
+:----------------------------------:|:----------------------------:     
+            
 
